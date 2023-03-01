@@ -17,7 +17,10 @@
  
  - 그룹4
  - https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002653933
- 
+
+-그룹5
+- https://discuss.ardupilot.org/t/synchropter-build-need-help/13587/144
+
 
 ```
 
